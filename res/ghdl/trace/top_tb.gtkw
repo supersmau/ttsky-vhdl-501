@@ -1,0 +1,57 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Fri Nov  7 15:04:15 2025
+[*]
+[dumpfile] "/home/smau/workspace/work/tinytapeout/ttsky-501/res/vhdl/build/trace/top_tb.ghw"
+[dumpfile_mtime] "Fri Nov  7 15:03:07 2025"
+[dumpfile_size] 3809
+[savefile] "/home/smau/workspace/work/tinytapeout/ttsky-501/res/vhdl/trace/top_tb.gtkw"
+[timestart] 0
+[size] 1920 988
+[pos] -142 -142
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.top_tb.
+[treeopen] top.top_tb.top_0.
+[treeopen] top.top_tb.top_0.sampler_0.
+[treeopen] top.top_tb.top_0.sampler_0.rr.
+[sst_width] 277
+[signals_width] 270
+[sst_expanded] 1
+[sst_vpaned_height] 275
+@28
+top.top_tb.top_0.sampler_0.rst
+top.top_tb.top_0.sampler_0.clk
+@800200
+-io
+@22
+#{top.top_tb.top_0.sampler_0.score_num[4:0]} top.top_tb.top_0.sampler_0.score_num[4] top.top_tb.top_0.sampler_0.score_num[3] top.top_tb.top_0.sampler_0.score_num[2] top.top_tb.top_0.sampler_0.score_num[1] top.top_tb.top_0.sampler_0.score_num[0]
+@28
+#{top.top_tb.top_0.sampler_0.score_mul[2:0]} top.top_tb.top_0.sampler_0.score_mul[2] top.top_tb.top_0.sampler_0.score_mul[1] top.top_tb.top_0.sampler_0.score_mul[0]
+@22
+#{top.top_tb.top_0.sampler_0.scan_in[7:0]} top.top_tb.top_0.sampler_0.scan_in[7] top.top_tb.top_0.sampler_0.scan_in[6] top.top_tb.top_0.sampler_0.scan_in[5] top.top_tb.top_0.sampler_0.scan_in[4] top.top_tb.top_0.sampler_0.scan_in[3] top.top_tb.top_0.sampler_0.scan_in[2] top.top_tb.top_0.sampler_0.scan_in[1] top.top_tb.top_0.sampler_0.scan_in[0]
+#{top.top_tb.top_0.sampler_0.scan_out[7:0]} top.top_tb.top_0.sampler_0.scan_out[7] top.top_tb.top_0.sampler_0.scan_out[6] top.top_tb.top_0.sampler_0.scan_out[5] top.top_tb.top_0.sampler_0.scan_out[4] top.top_tb.top_0.sampler_0.scan_out[3] top.top_tb.top_0.sampler_0.scan_out[2] top.top_tb.top_0.sampler_0.scan_out[1] top.top_tb.top_0.sampler_0.scan_out[0]
+@28
+top.top_tb.top_0.sampler_0.score_en
+@1000200
+-io
+@200
+-
+@800200
+-rr
+@420
+top.top_tb.top_0.sampler_0.rr.state
+@28
+top.top_tb.top_0.sampler_0.rr.score_en
+@22
+#{top.top_tb.top_0.sampler_0.rr.presc[14:0]} top.top_tb.top_0.sampler_0.rr.presc[14] top.top_tb.top_0.sampler_0.rr.presc[13] top.top_tb.top_0.sampler_0.rr.presc[12] top.top_tb.top_0.sampler_0.rr.presc[11] top.top_tb.top_0.sampler_0.rr.presc[10] top.top_tb.top_0.sampler_0.rr.presc[9] top.top_tb.top_0.sampler_0.rr.presc[8] top.top_tb.top_0.sampler_0.rr.presc[7] top.top_tb.top_0.sampler_0.rr.presc[6] top.top_tb.top_0.sampler_0.rr.presc[5] top.top_tb.top_0.sampler_0.rr.presc[4] top.top_tb.top_0.sampler_0.rr.presc[3] top.top_tb.top_0.sampler_0.rr.presc[2] top.top_tb.top_0.sampler_0.rr.presc[1] top.top_tb.top_0.sampler_0.rr.presc[0]
+#{top.top_tb.top_0.sampler_0.rr.rpresc[7:0]} top.top_tb.top_0.sampler_0.rr.rpresc[7] top.top_tb.top_0.sampler_0.rr.rpresc[6] top.top_tb.top_0.sampler_0.rr.rpresc[5] top.top_tb.top_0.sampler_0.rr.rpresc[4] top.top_tb.top_0.sampler_0.rr.rpresc[3] top.top_tb.top_0.sampler_0.rr.rpresc[2] top.top_tb.top_0.sampler_0.rr.rpresc[1] top.top_tb.top_0.sampler_0.rr.rpresc[0]
+#{top.top_tb.top_0.sampler_0.rr.score_num[4:0]} top.top_tb.top_0.sampler_0.rr.score_num[4] top.top_tb.top_0.sampler_0.rr.score_num[3] top.top_tb.top_0.sampler_0.rr.score_num[2] top.top_tb.top_0.sampler_0.rr.score_num[1] top.top_tb.top_0.sampler_0.rr.score_num[0]
+@28
+#{top.top_tb.top_0.sampler_0.rr.score_mul[2:0]} top.top_tb.top_0.sampler_0.rr.score_mul[2] top.top_tb.top_0.sampler_0.rr.score_mul[1] top.top_tb.top_0.sampler_0.rr.score_mul[0]
+@22
+#{top.top_tb.top_0.sampler_0.rr.scan_out[7:0]} top.top_tb.top_0.sampler_0.rr.scan_out[7] top.top_tb.top_0.sampler_0.rr.scan_out[6] top.top_tb.top_0.sampler_0.rr.scan_out[5] top.top_tb.top_0.sampler_0.rr.scan_out[4] top.top_tb.top_0.sampler_0.rr.scan_out[3] top.top_tb.top_0.sampler_0.rr.scan_out[2] top.top_tb.top_0.sampler_0.rr.scan_out[1] top.top_tb.top_0.sampler_0.rr.scan_out[0]
+@1000200
+-rr
+[pattern_trace] 1
+[pattern_trace] 0
