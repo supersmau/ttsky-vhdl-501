@@ -2,7 +2,7 @@ library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
 
-entity tt_supersmau_501 is
+entity tt_um_supersmau_501 is
     port (
         ui_in   : in  std_logic_vector(7 downto 0);
         uo_out  : out std_logic_vector(7 downto 0);
@@ -13,9 +13,9 @@ entity tt_supersmau_501 is
         clk     : in  std_logic;
         rst_n   : in  std_logic
     );
-end tt_supersmau_501;
+end tt_um_supersmau_501;
 
-architecture behavioral of tt_supersmau_501 is
+architecture behavioral of tt_um_supersmau_501 is
     component top is
     generic (
         FCLKMHZ   : integer
