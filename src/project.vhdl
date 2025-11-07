@@ -41,9 +41,9 @@ begin
     ---
     -- Top-level module
     top_0: top
-    generic (
+    generic map (
         FCLKMHZ => FCLKMHZ
-    );
+    )
     port map (
         rst => rst_n,
         clk => clk,
